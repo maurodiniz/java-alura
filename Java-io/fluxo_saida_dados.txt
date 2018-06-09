@@ -1,0 +1,4 @@
+teste de gravação em arquivo .txt a partir do 
+console do Eclipse
+Esse método de gravação é muito importante pois nos permite pegar dados e 
+salvar em arquivos txt
